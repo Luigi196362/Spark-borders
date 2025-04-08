@@ -1,0 +1,41 @@
+ID,Nombre,Tipo,Rareza,Etapa del juego,Dimensión,Usos Principales
+1,Diamante,Mineral,Raro,Medio,Overworld,"Crear herramientas, armaduras, encantamientos"
+2,Espada de hierro,Herramienta,Común,Temprano,Overworld,Combate
+3,Pico de piedra,Herramienta,Común,Temprano,Overworld,Minería básica
+4,Mesa de trabajo,Bloque útil,Común,Temprano,Overworld,Crafteo de objetos
+5,Cofre,Bloque útil,Común,Temprano,Overworld,Almacenamiento
+6,Ender Pearl,Objeto,Poco común,Medio,End,Teletransportación
+7,Escudo,Herramienta,Común,Temprano,Overworld,Defensa
+8,Antorcha,Bloque útil,Común,Temprano,Overworld,Iluminación
+9,Tridente,Arma,Raro,Medio,Overworld,"Combate, lanzar a distancia"
+10,Totem de inmortalidad,Objeto,Muy raro,Tardío,Overworld,Evitar la muerte
+11,Manzana dorada,Alimento,Raro,Medio,Overworld,"Curación, combate"
+12,Bloque de redstone,Bloque útil,Común,Medio,Overworld,Circuitos y mecanismos
+13,Cubo de agua,Contenedor,Común,Temprano,Overworld,"Apagar fuego, cultivar, bajar montañas"
+14,Armadura de netherite,Armadura,Muy raro,Tardío,Nether,Protección superior
+15,Libro encantado,Objeto,Raro,Medio,Overworld,Encantamientos
+16,Horno,Bloque útil,Común,Temprano,Overworld,Cocinar y fundir materiales
+17,Caña de pescar,Herramienta,Común,Temprano,Overworld,Pescar
+18,Bloque de comandos,Bloque,Exclusivo,Creativo,Overworld,Usado en modo creativo para comandos
+19,Elytra,Objeto,Muy raro,Tardío,End,Volar
+20,Riel,Bloque útil,Común,Medio,Overworld,Transporte con vagonetas
+21,Espada de diamante,Arma,Raro,Medio,Overworld,Combate poderoso
+22,Espada de netherite,Arma,Muy raro,Tardío,Nether,Mejor arma cuerpo a cuerpo
+23,Arena de almas,Bloque,Común,Temprano,Nether,"Trampas, invocar Wither"
+24,Polvo de blaze,Objeto,Raro,Medio,Nether,Pociones y ojo de ender
+25,Cristal del End,Objeto,Raro,Tardío,End,Regeneración del dragón
+26,Botella de experiencia,Objeto,Raro,Medio,Overworld,Encantamientos
+27,Calavera de esqueleto wither,Objeto,Muy raro,Tardío,Nether,Invocar al Wither
+28,Piedra luminosa,Bloque útil,Poco común,Medio,Nether,Iluminación
+29,Obsidiana,Bloque,Común,Medio,Overworld,"Portales, protección"
+30,Piedra de End,Bloque,Común,Tardío,End,"Construcción, decoración"
+31,Cofre de ender,Bloque útil,Raro,Medio,Overworld,Almacenamiento seguro
+32,Hongo carmesí,Planta,Común,Temprano,Nether,"Decoración, cultivo"
+33,Cuerno de cabra,Objeto,Poco común,Medio,Overworld,"Sonido, señal"
+34,Lingote de hierro,Mineral,Común,Temprano,Overworld,"Herramientas, golems"
+35,Piedra negra,Bloque,Común,Temprano,Nether,Construcción
+36,Cuarzo del nether,Mineral,Común,Medio,Nether,"Decoración, redstone"
+37,Silla de montar,Objeto,Poco común,Medio,Overworld,Montar cerdos y caballos
+38,Huevo de dragón,Objeto,Muy raro,Tardío,End,"Trofeo, decoración"
+39,Estantería,Bloque,Común,Medio,Overworld,Mejorar mesa de encantamientos
+40,Ancla de reaparición,Bloque útil,Raro,Tardío,Nether,Punto de reaparición en Nether
