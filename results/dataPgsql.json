@@ -1,4 +1,10 @@
 [
+  "{\"ID\":1,\"Nombre\":\"Diamante\",\"Tipo\":\"Mineral\",\"Rareza\":\"Raro\",\"Etapa del juego\":\"Medio\",\"Dimensión\":\"Overworld\",\"Usos Principales\":\"Crear herramientas, armaduras, encantamientos\"}",
   "{\"ID\":9,\"Nombre\":\"Tridente\",\"Tipo\":\"Arma\",\"Rareza\":\"Raro\",\"Etapa del juego\":\"Medio\",\"Dimensión\":\"Overworld\",\"Usos Principales\":\"Combate, lanzar a distancia\"}",
-  "{\"ID\":21,\"Nombre\":\"Espada de diamante\",\"Tipo\":\"Arma\",\"Rareza\":\"Raro\",\"Etapa del juego\":\"Medio\",\"Dimensión\":\"Overworld\",\"Usos Principales\":\"Combate poderoso\"}"
+  "{\"ID\":11,\"Nombre\":\"Manzana dorada\",\"Tipo\":\"Alimento\",\"Rareza\":\"Raro\",\"Etapa del juego\":\"Medio\",\"Dimensión\":\"Overworld\",\"Usos Principales\":\"Curación, combate\"}",
+  "{\"ID\":15,\"Nombre\":\"Libro encantado\",\"Tipo\":\"Objeto\",\"Rareza\":\"Raro\",\"Etapa del juego\":\"Medio\",\"Dimensión\":\"Overworld\",\"Usos Principales\":\"Encantamientos\"}",
+  "{\"ID\":21,\"Nombre\":\"Espada de diamante\",\"Tipo\":\"Arma\",\"Rareza\":\"Raro\",\"Etapa del juego\":\"Medio\",\"Dimensión\":\"Overworld\",\"Usos Principales\":\"Combate poderoso\"}",
+  "{\"ID\":24,\"Nombre\":\"Polvo de blaze\",\"Tipo\":\"Objeto\",\"Rareza\":\"Raro\",\"Etapa del juego\":\"Medio\",\"Dimensión\":\"Nether\",\"Usos Principales\":\"Pociones y ojo de ender\"}",
+  "{\"ID\":26,\"Nombre\":\"Botella de experiencia\",\"Tipo\":\"Objeto\",\"Rareza\":\"Raro\",\"Etapa del juego\":\"Medio\",\"Dimensión\":\"Overworld\",\"Usos Principales\":\"Encantamientos\"}",
+  "{\"ID\":31,\"Nombre\":\"Cofre de ender\",\"Tipo\":\"Bloque útil\",\"Rareza\":\"Raro\",\"Etapa del juego\":\"Medio\",\"Dimensión\":\"Overworld\",\"Usos Principales\":\"Almacenamiento seguro\"}"
 ]
