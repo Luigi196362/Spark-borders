@@ -13,8 +13,8 @@ def generar_json_mongo(df):
         json.dump(results, f, ensure_ascii=False, indent=2)
 
 def generar_json_pgsql(df):
-    # Filtro para objetos de rareza "Raro" y tipo "Arma"
-    df_filtered = df.filter((df.Rareza == "Raro") & (df.Tipo == "Arma"))
+    # Filtro para objetos de rareza "Raro" y etapa del juego "Medio"
+    df_filtered = df.filter((df.Rareza == "Raro") & (df["Etapa del juego"] == "Medio"))
     results = df_filtered.toJSON().collect()
     with open("results/dataPgsql.json", "w", encoding="utf-8") as f:
         json.dump(results, f, ensure_ascii=False, indent=2)
