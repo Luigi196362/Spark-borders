@@ -1,0 +1,14 @@
+{"ID":2,"Nombre":"Espada de hierro","Tipo":"Herramienta","Rareza":"Común","Etapa del juego":"Temprano","Dimensión":"Overworld","Usos Principales":"Combate"}
+{"ID":3,"Nombre":"Pico de piedra","Tipo":"Herramienta","Rareza":"Común","Etapa del juego":"Temprano","Dimensión":"Overworld","Usos Principales":"Minería básica"}
+{"ID":4,"Nombre":"Mesa de trabajo","Tipo":"Bloque útil","Rareza":"Común","Etapa del juego":"Temprano","Dimensión":"Overworld","Usos Principales":"Crafteo de objetos"}
+{"ID":5,"Nombre":"Cofre","Tipo":"Bloque útil","Rareza":"Común","Etapa del juego":"Temprano","Dimensión":"Overworld","Usos Principales":"Almacenamiento"}
+{"ID":7,"Nombre":"Escudo","Tipo":"Herramienta","Rareza":"Común","Etapa del juego":"Temprano","Dimensión":"Overworld","Usos Principales":"Defensa"}
+{"ID":8,"Nombre":"Antorcha","Tipo":"Bloque útil","Rareza":"Común","Etapa del juego":"Temprano","Dimensión":"Overworld","Usos Principales":"Iluminación"}
+{"ID":12,"Nombre":"Bloque de redstone","Tipo":"Bloque útil","Rareza":"Común","Etapa del juego":"Medio","Dimensión":"Overworld","Usos Principales":"Circuitos y mecanismos"}
+{"ID":13,"Nombre":"Cubo de agua","Tipo":"Contenedor","Rareza":"Común","Etapa del juego":"Temprano","Dimensión":"Overworld","Usos Principales":"Apagar fuego, cultivar, bajar montañas"}
+{"ID":16,"Nombre":"Horno","Tipo":"Bloque útil","Rareza":"Común","Etapa del juego":"Temprano","Dimensión":"Overworld","Usos Principales":"Cocinar y fundir materiales"}
+{"ID":17,"Nombre":"Caña de pescar","Tipo":"Herramienta","Rareza":"Común","Etapa del juego":"Temprano","Dimensión":"Overworld","Usos Principales":"Pescar"}
+{"ID":20,"Nombre":"Riel","Tipo":"Bloque útil","Rareza":"Común","Etapa del juego":"Medio","Dimensión":"Overworld","Usos Principales":"Transporte con vagonetas"}
+{"ID":29,"Nombre":"Obsidiana","Tipo":"Bloque","Rareza":"Común","Etapa del juego":"Medio","Dimensión":"Overworld","Usos Principales":"Portales, protección"}
+{"ID":34,"Nombre":"Lingote de hierro","Tipo":"Mineral","Rareza":"Común","Etapa del juego":"Temprano","Dimensión":"Overworld","Usos Principales":"Herramientas, golems"}
+{"ID":39,"Nombre":"Estantería","Tipo":"Bloque","Rareza":"Común","Etapa del juego":"Medio","Dimensión":"Overworld","Usos Principales":"Mejorar mesa de encantamientos"}
